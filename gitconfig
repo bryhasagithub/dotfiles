@@ -1,11 +1,9 @@
 [user]
-	name = Mark Probst
-	email = mark.probst@gmail.com
+	name = Bry Nguyen
+	email = brynguyen1331@gmail.com
 
 [core]
-	editor = zile
 	pager = tig
-	excludesfile = /Users/schani/.gitignore_global
 
 [color]
 	pager = false
